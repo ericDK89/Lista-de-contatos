@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 - [React Router Dom](https://reactrouter.com/en/main)
-- [React Input Mas](https://www.npmjs.com/package/react-input-mask)
+- [React Input Mask](https://www.npmjs.com/package/react-input-mask)
 
 ## 🚀 Como executar
 
