@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Efood" src="https://github.com/ericDK89/Efood/assets/68076508/a412ffb9-dd16-43f6-b3c9-238da0d3fa38">
+  <img alt="Efood" src="https://github.com/ericDK89/Todo-List/assets/68076508/bb8cba39-40bd-4ed8-8d42-1bc6753df903">
   <img alt="Efood" src="https://github.com/ericDK89/Todo-List/assets/68076508/f4440a13-f7a7-45de-ba85-15b1de648b01">
 </p>
 
