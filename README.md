@@ -30,10 +30,10 @@ $ npm run dev
 ```
 
 ## 🌐 Visite o site
-[Todo-List](https://todo-list-cyan-three.vercel.app/)
+[Lista de contatos](https://todo-list-cyan-three.vercel.app/)
 
 ## 💻 Projeto
 
-Um Todo-List com opção de adicionar, remover e editar contatos.
+Uma lista de contatos, com os campos de nome, email e telefone, onde é possível além de adicionar contatos, remover e editar.
 
 Feito por Eric Macedo 🌌  [LinkedIn](https://www.linkedin.com/in/eric-macedo-dev/)
